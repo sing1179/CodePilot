@@ -2,7 +2,7 @@
 
 # CodePilot
 
-“An open-source AI engineer that watches your repo, understands your codebase, and automates your dev workflows.”
+An open-source AI engineer that watches your repo, understands your codebase, and automates your dev workflows.
 
 ## Project Description
 
